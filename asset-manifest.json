@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/assement-project/static/css/main.073c9b0a.css",
+    "main.js": "/assement-project/static/js/main.d19bd88e.js",
+    "static/js/787.9929dbde.chunk.js": "/assement-project/static/js/787.9929dbde.chunk.js",
+    "static/media/bootstrap-themes.png": "/assement-project/static/media/bootstrap-themes.79439e8758b5dea25ebd.png",
+    "static/media/Spinner-3.gif": "/assement-project/static/media/Spinner-3.b51df3f3ec072548cb48.gif",
+    "index.html": "/assement-project/index.html",
+    "main.073c9b0a.css.map": "/assement-project/static/css/main.073c9b0a.css.map",
+    "main.d19bd88e.js.map": "/assement-project/static/js/main.d19bd88e.js.map",
+    "787.9929dbde.chunk.js.map": "/assement-project/static/js/787.9929dbde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d19bd88e.js"
+  ]
+}
